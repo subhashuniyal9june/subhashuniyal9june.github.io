@@ -1,30 +1,22 @@
-# HooBank - Business Website Template
+# Architect Website
+Fully responsive architect website using html, css and javascript.
 
-Modern responsive business website design made with React and Tailwind CSS.
+## Languages
+- HTML5
+- CSS3
+- JavaScript
 
-⚠️ **All names, information and assets used are fake and do not represent a real componany.** ⚠️
+## Screenshot
 
-Live demo can be found under this [**link**](https://business-website-template.onrender.com/).
+![Screenshot (302)](https://user-images.githubusercontent.com/93200960/215093326-13249bd8-2956-48cc-b310-dd24bff344f4.png)
 
-![image](https://user-images.githubusercontent.com/72783924/222011304-859783c2-3a38-47b6-9427-d323f01d0fba.png)
+## Demo
+https://user-images.githubusercontent.com/93200960/196207036-bd425f78-1be9-49fe-8474-98769cef3eea.mp4
 
+## 🚀 About Me
+I'm a self tought frontend web developer...
 
-## Layout
-- Header
-- Hero section
-- Features section
-- Billing section
-- Product showcase section
-- Testimonials section
-- Clients section
-- Call to action section
-- Footer
-
-## Built With
-- React.js
-- Tailwind CSS
-- Vite
-
-## Acknowledgments
-- [**Original Figma Design**](https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=310%3A485&t=Jkk7MU9hZJ5HoVph-0)
-- [**JavaScript Mastery video**](https://youtu.be/_oO4Qi5aVZs)
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-me-karanchandekar.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-chandekar-a87263219/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/karanchandekar1)
